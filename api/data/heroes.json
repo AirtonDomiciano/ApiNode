@@ -1,0 +1,12 @@
+{
+    "heroes": {
+      "data": [
+        {
+          "id": "1",
+          "name": "Flash",
+          "power": "Speed",
+          "state": "NW"
+        }
+      ]
+    }
+  }

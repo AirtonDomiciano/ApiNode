@@ -1,0 +1,3 @@
+Agora vamos criar nosso principal arquivo de configuração da nossa aplicação dentro da pasta 
+“./config/default.json”, é neste arquivo que estará as configurações de ambientes,
+ banco de dados, autenticação...
