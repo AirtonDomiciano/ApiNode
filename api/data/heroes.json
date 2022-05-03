@@ -6,6 +6,24 @@
           "name": "Flash",
           "power": "Speed",
           "state": "NW"
+        },
+        {
+          "id": "2",
+          "name": "SuperMan",
+          "power": "All",
+          "state": "NW"
+        },
+        {
+          "id": "3",
+          "name": "Aquamen",
+          "power": "speak fish",
+          "state": "NW"
+        },
+        {
+          "id": "4",
+          "name": "iron maiden",
+          "power": "mind",
+          "state": "NW"
         }
       ]
     }
