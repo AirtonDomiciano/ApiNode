@@ -1,6 +1,5 @@
-module.exports = app => {
-    const controller = app.controllers.heroes;
+module.exports = (app) => {
+  const { listHeroes } = app.controllers.heroes;
 
-    app.route('/api/v1/heroes')
-        .get(controller.listHeroes);
-}
+  app.route("/api/v1/heroes").get(listHeroes);
+};
